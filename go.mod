@@ -1,4 +1,4 @@
-module github.com/Erik-Tonin/13-GraphQL
+module github.com/Erik-Tonin/GraphQL2
 
 go 1.18
 

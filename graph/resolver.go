@@ -1,6 +1,6 @@
 package graph
 
-import "github.com/Erik-Tonin/13-GraphQL/internal/database"
+import "github.com/Erik-Tonin/GraphQL2/internal/database"
 
 // This file will not be regenerated automatically.
 //

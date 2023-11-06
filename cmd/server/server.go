@@ -8,8 +8,8 @@ import (
 
 	"github.com/99designs/gqlgen/graphql/handler"
 	"github.com/99designs/gqlgen/graphql/playground"
-	"github.com/Erik-Tonin/13-GraphQL/graph"
-	"github.com/Erik-Tonin/13-GraphQL/internal/database"
+	"github.com/Erik-Tonin/GraphQL2/graph"
+	"github.com/Erik-Tonin/GraphQL2/internal/database"
 	_ "github.com/mattn/go-sqlite3"
 )
 
